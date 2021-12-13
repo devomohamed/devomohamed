@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Mohamed Sabry
 #### Welcome To My Profile Github
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a Front-end developer with passion and extreme attention to details and expertise to make a website visually good. obsessed with constantly expanding my coding set.
 
 Skills: HTML / CSS / JS / Jquery / Bootstrap / Angular / Nodejs / MongoDb
 
