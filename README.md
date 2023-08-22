@@ -6,13 +6,13 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=Mohamed+Sabry+Abdelmordy;Frontend+Developer+(Angular);Always+improving+My+Skills" alt="Typing SVG" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devomohamed.devomohamed&"  />
+  
 </div>
 
 ###
 
 <div align="center">
-  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devomohamed.devomohamed&"  />
 </div>
 
 ###
