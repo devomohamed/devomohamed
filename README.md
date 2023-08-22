@@ -104,6 +104,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/devomohamed/devomohamed/output/snake.svg" alt="Snake animation" />
-
 ###
