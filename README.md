@@ -1,5 +1,6 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY0cjVkNnJ0dWR1OGk1ZmpsYWUwcjNpMjBqb3V6cHBpcWgycWFiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=Mohamed+Sabry+Abdelmordy;Frontend+Developer+(Angular);Always+improving+My+Skills)](https://git.io/typing-svg)
 </div>
 
 ###
