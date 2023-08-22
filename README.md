@@ -55,7 +55,7 @@
   <a href="https://twitter.com/abdelmordy_s" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="behance.net/mohammedmooody" target="_blank">
+  <a href="https://www.behance.net/mohammedmooody" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
 </div>
